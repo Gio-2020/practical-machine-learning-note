@@ -11,3 +11,5 @@
 ## 弱监督(weak supervision)
 设计启发式的规则(data programming), 半自动地产生一些置信度不那么高（但足以训练模型）的label
 ![alt](../pic/weak-supervision.png)
+
+<https://www.bilibili.com/video/BV1HL41147aL/?spm_id_from=333.788&vd_source=35e3dd0f9a100d96103fb74d5deb91f9>
